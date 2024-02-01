@@ -27,7 +27,7 @@ export default function Home() {
           padding: (theme) => theme.spacing(3, 2),
         }}
       >
-        <Typography variant="h5">Fancy Fashion &amp; Style Online</Typography>
+        <Typography variant="h5">Epathshaala Fashion &amp; Style Online</Typography>
         <br />
         <Typography variant="body1">
           Tired of mainstream fashion ideas, popular trends and societal norms?
