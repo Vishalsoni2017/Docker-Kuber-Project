@@ -1,17 +1,17 @@
 # Monolith to Microservices
 
-## NOTE: This is not an officially supported vsoni product
+## NOTE: This is not an officially supported epathshaala product
 
 ## Introduction
 
-### This project is used by the vsoni Cloud Platform team to demonstrate different services within vsoni Cloud. This project contains two versions of the same application, one architected as a monolith and the other as a set of microservices
+### This project is used by the epathshaala Cloud Platform team to demonstrate different services within epathshaala Cloud. This project contains two versions of the same application, one architected as a monolith and the other as a set of microservices
 
 ## Setup
 
 ### **NOTE:** Make sure you have a newer version of NodeJS (16.13.0) or newer (in Cloud Shell you can run `nvm install --lts`)
 
 ```bash
-git clone https://github.com/vsonicodelabs/monolith-to-microservices
+git clone https://github.com/epathshaalacodelabs/monolith-to-microservices
 cd monolith-to-microservices
 ./setup.sh
 ```
